@@ -6,4 +6,4 @@
 🐍 Python, C. <br>
 📊 Dashboards on PowerBI. <br>
 🔢 Excel, MySQL, PostgreSQL. <br>
-🗣️ Hindi and English. <br>
+🗣️ Hindi and English (8 bands in IELTS). <br>
